@@ -37,7 +37,7 @@ var terminalTpl = "<header class='terminal-title'>" +
     "<img src=./images/gaa.png height=190px>" +
     "<br>" +
     "<br>" +
-    "<h3 style=font-size:3em>დაშვების კოდი აუცილებელია</h3>" +
+    "<h3 style=font-size:3em>დაშვების კოდი</h3>" +
     //"<span>admin terminal r75_zone 51</span>" +
   "</header>" +
   "<div class='seq-pad'>" +
